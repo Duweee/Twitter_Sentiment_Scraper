@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Calling REST Api's with Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calling_REST_Api_s_with_Java_jar</output-path>
+    <root id="archive" name="Calling REST Api's with Java.jar">
+      <element id="module-output" name="Calling REST Api's with Java" />
+    </root>
+  </artifact>
+</component>
